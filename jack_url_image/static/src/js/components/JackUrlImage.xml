@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--code:myaddons\jack_url_image\static\src\js\components\JackUrlImage.xml-->
+<templates xml:space="preserve">
+<!--    xml:space="preserve"  所有定义的空白字符也要保留-->
+    <t t-name="jack_url_image.JackUrlImage" owl="1">
+         <div>My cool new widget</div>
+     </t>
+ </templates>

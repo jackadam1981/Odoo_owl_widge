@@ -17,4 +17,7 @@
             'jack_url_image/static/src/js/components/JackUrlImage.js',
         ]
     },
+    "qweb": [
+        "static/src/js/components/JackUrlImage.xml"
+    ],
 }

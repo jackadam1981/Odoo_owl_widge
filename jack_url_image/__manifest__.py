@@ -8,7 +8,7 @@
     'website': "http://www.baidu.com",
     'category': 'Administration',
     'version': '15.0.0.1',
-    'depends': ['base'],
+    'depends': ['base', 'hr'],  #修改这里
     'installable': True,
     'application': True,
     'auto_install': False,

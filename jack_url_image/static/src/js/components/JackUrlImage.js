@@ -4,6 +4,7 @@ odoo.define("jack_url_image.JackUrlImage", function (require) {
     const FormRenderer = require("web.FormRenderer");
     const {Component} = owl;
     const {ComponentWrapper} = require("web.OwlCompatibility");
+    const {useState} = owl.hooks;
 
     class JackUrlImage extends Component {
         //

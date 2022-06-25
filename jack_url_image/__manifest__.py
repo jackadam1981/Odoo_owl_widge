@@ -12,4 +12,9 @@
     'installable': True,
     'application': True,
     'auto_install': False,
+    'assets': {
+        'web.assets_backend': [
+            'jack_url_image/static/src/js/components/JackUrlImage.js',
+        ]
+    },
 }
